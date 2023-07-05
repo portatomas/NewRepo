@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simulacro de parcial", "simulacro de parcial\simulacro de parcial.csproj", "{A898A6A8-DB6F-476A-BA60-5170F261DC52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simulacro de parcial 1.0", "simulacro de parcial 1.0\simulacro de parcial 1.0.csproj", "{F684F514-42AE-48CB-95F6-9735C2A2ADB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A898A6A8-DB6F-476A-BA60-5170F261DC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A898A6A8-DB6F-476A-BA60-5170F261DC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A898A6A8-DB6F-476A-BA60-5170F261DC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A898A6A8-DB6F-476A-BA60-5170F261DC52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F684F514-42AE-48CB-95F6-9735C2A2ADB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F684F514-42AE-48CB-95F6-9735C2A2ADB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F684F514-42AE-48CB-95F6-9735C2A2ADB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F684F514-42AE-48CB-95F6-9735C2A2ADB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {164594D9-7DDE-4865-B38A-C7A5E6B30C99}
+	EndGlobalSection
+EndGlobal
